@@ -1,0 +1,3 @@
+[submodule "macos-app/resources/tools/macdylibbundler"]
+	path = macos-app/resources/tools/macdylibbundler
+	url = git@github.com:auriamg/macdylibbundler.git
